@@ -5,7 +5,7 @@ This privacy policy ("Policy") informs you of practices when handling your Infor
 
 For the purpose of this Policy, "Information" means any information relating to an identified or identifiable individual. This includes Information you provide or generated when you use our app; When you use the Services, you accept and understand we collect, process, use and store your Information as described in this Policy. If you do not agree with this Policy, you must not use any of the Services. If you change your mind in the future, you must stop using the Services and you may exercise your rights in relation to your Information as set out in this Policy.
 
-# Information we collect
+## Information we collect
 
 We will collect and use the following Information about you:
 
