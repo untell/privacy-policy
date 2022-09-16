@@ -1,11 +1,11 @@
-Untell Privacy Policy
+# Untell Privacy Policy
 Created September 16, 2022
 
 This privacy policy ("Policy") informs you of practices when handling your Information through the Services (both as defined below). In this Policy, "Untell", "we" or "us" refers to Marcelo Zembrzuski ME., an individual company registered in Porto Alegre with its registered address located at 190 Graciliano Ramos, Brazil, BR. We are the data controller under the applicable privacy laws.
 
 For the purpose of this Policy, "Information" means any information relating to an identified or identifiable individual. This includes Information you provide or generated when you use our app; When you use the Services, you accept and understand we collect, process, use and store your Information as described in this Policy. If you do not agree with this Policy, you must not use any of the Services. If you change your mind in the future, you must stop using the Services and you may exercise your rights in relation to your Information as set out in this Policy.
 
-1. Information we collect
+# Information we collect
 
 We will collect and use the following Information about you:
 
@@ -29,7 +29,7 @@ When you choose to share a group of tasks we collect the phone numbers in your a
 Children
 Our Services are not targeted at children, and we do not knowingly collect Information from children under the age of 13. If you learn that a child has provided us with Information in violation of this Policy, please contact us as indicated below.
 
-2. How we use your personal information
+# How we use your personal information
 We use your Information to: 
 
 2.1 - Provide you with the Services. We will use your Information to perform our contractual obligation towards you to allow you to create an account and use the Services. The Information we process when doing so includes your registration information, information you provide to us when using the Services, identifiers, information you generate when using the Services, and information regarding your use of the Services such as transaction information. 
@@ -42,7 +42,7 @@ We use your Information to:
 2.4 - Conduct analytics. It is in our legitimate interests to analyse the use of, and any other interaction or interest in our Services. When doing so we will process information we automatically collect or is generated about you when you use the Services to create anonymised and aggregated data regarding your App usage.
 
 
-3. How we use cookies and similar technologies
+# How we use cookies and similar technologies
 Cookies are small files of letters and numbers that we store on your browser or the hard drive of your computer. They contain information that is transferred to your computer‘s hard drive.
 
 Our Services uses Cookies to collect information about your browsing activities and to distinguish you from other users of our Services. This aids your experience when you use our Services and also allows us to improve the functionality of our Services.
@@ -60,7 +60,7 @@ You can block cookies by setting your internet browser to block some or all cook
 Except for essential cookies, all cookies will expire after maximum 2 years.
 
 
-4. Who we share your personal information with
+# Who we share your personal information with
 We share your Information with selected third parties, including:
 
 Other users who will see your profile information and any other information you choose to share with them through the Services.
@@ -78,14 +78,14 @@ Change of corporate ownership. If we are involved in a merger, acquisition, bank
 Although we have in place security measures to maintain the privacy and integrity of your Information, the transmission of Information via the internet is not completely secure. We may also take extra steps to protect your Information and minimise the Information we process.
 Additionally, we are not responsible for how third party integration services may collect, use or share the Information you send from the Apps. Please review the privacy policy of such third party integration partners before connecting those services to the Apps.
 
-5. Where we store your information
+# Where we store your information
 Your Information will be processed by our employees and service providers in the U.S. We take steps to ensure all transfers are protected by adequate safeguards, including the standard contractual clauses approved by the European Commission.
 
-6. How long we store your information
+# How long we store your information
 Your Information is kept for as long as necessary to achieve the purposes set out above. Generally, it is stored for as long as you are registered and using our Services, and then for up to 6 years from the date you stop using the Services, or promptly following a valid erasure request. Some information we collect will be stored for longer where we have an overriding legitimate interest to retain such information (for example, information on suspicious behaviour of certain users of our Services and transaction records).
 
 When deleting Information, we will take measures to make the Information irrecoverable or irreproducible, and electronic files which contain Information will be deleted permanently.
 
 
-7. Changes
+# Changes
 If we make any material changes to this Policy, we will post the updated Policy here and notify our users through the Services and/or newsletters. Please check this page frequently to see any updates or changes to this Policy.
